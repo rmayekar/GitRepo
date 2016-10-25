@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//add
 void bfs(int,int,int [][10]);
 
 int main(int argc,char **argv[])

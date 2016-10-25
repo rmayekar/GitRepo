@@ -9,3 +9,4 @@ public class Sample {
 	}
 
 }
+http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=588773
